@@ -1,0 +1,46 @@
+Column,Metafile heading,Metafile description
+1,RECTYPE,Record type (1=mainstream school; 2=special school; 4=local authority; 5=National (all schools); 7=National (maintained schools))
+2,ALPHAIND,Alphabetic sorting index
+3,LEA,Local authority code (see separate list of local authorities and their codes)
+4,ESTAB,Establishment number
+5,URN,School Unique Reference Number
+16,NFTYPE,School type (see separate list of abbreviations used in the tables)
+17,RELDENOM,School religious character
+18,ADMPOL,School admissions policy (self-declared by schools on Edubase)
+19,EGENDER,School gender of entry
+29,BPUP,Number of boys at the end of key stage 4
+30,PBPUP,Percentage of pupils at the end of key stage 4 who are boys
+31,GPUP,Number of girls at the end of key stage 4
+32,PGPUP,Percentage of pupils at the end key stage 4 who are girls
+33,KS2APS,Key stage 2 Average Points Score of the cohort at the end of key stage 4
+34,TPRIORLO,Number of pupils at the end of key stage 4 with low prior attainment at the end of key stage 2
+35,PTPRIORLO,Percentage of pupils at the end of key stage 4 with low prior attainment at the end of key stage 2
+36,TPRIORAV,Number of pupils at the end of key stage 4 with middle prior attainment at the end of key stage 2
+37,PTPRIORAV,Percentage of pupils at the end of key stage 4 with middle prior attainment at the end of key stage 2
+38,TPRIORHI,Number of pupils at the end of key stage 4 with high prior attainment at the end of key stage 2
+39,PTPRIORHI,Percentage of pupils at the end of key stage 4 with high prior attainment at the end of key stage 2
+40,TFSM6CLA1A,Number of disadvantaged pupils at the end of key stage 4
+41,PTFSM6CLA1A,Percentage of pupils at the end of key stage 4 who are disadvantaged
+57,ATT8SCR,Average Attainment 8 score per pupil
+70,P8PUP,Number of pupils included in Progress 8 measure
+71,P8MEACOV,Percentage of pupils at the end of key stage 4 included in Progress 8 measure
+72,P8MEA,Progress 8 measure
+137,P8PUP_FSM6CLA1A,Number of disadvantaged pupils in Progress 8 measure
+138,P8MEA_FSM6CLA1A,Progress 8 measure - disadvantaged pupils
+142,P8PUP_NFSM6CLA1A,Number of non-disadvantaged pupils in Progress 8 measure
+143,P8MEA_NFSM6CLA1A,Progress 8 measure - non-disadvantaged pupils
+184,ATT8SCR_LO,Average Attainment 8 score per pupil with low prior attainment
+185,P8PUP_LO,Number of pupils with low prior attainment included in Progress 8 measure
+186,P8MEA_LO,Progress 8 measure - pupils with low prior attainment
+189,ATT8SCR_AV,Average Attainment 8 score per pupil with middle prior attainment
+190,P8PUP_AV,Number of pupils with middle prior attainment included in Progress 8 measure
+191,P8MEA_AV,Progress 8 measure - pupils with middle prior attainment
+194,ATT8SCR_HI,Average Attainment 8 score per pupil with high prior attainment
+195,P8PUP_HI,Number of pupils with high prior attainment included in Progress 8 measure
+196,P8MEA_HI,Progress 8 measure - pupils with high prior attainment
+204,ATT8SCR_GIRLS,Average Attainment 8 score per girl
+205,P8PUP_GIRLS,Number of girls included in Progress 8 measure
+206,P8MEA_GIRLS,Progress 8 measure - girls
+209,ATT8SCR_BOYS,Average Attainment 8 score per boy
+210,P8PUP_BOYS,Number of boys included in Progress 8 measure
+211,P8MEA_BOYS,Progress 8 measure - boys
